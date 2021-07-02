@@ -2,6 +2,8 @@
 
 Busy with babies, so I made [Baby Buddy](https://github.com/babybuddy/babybuddy). PRs welcome!
 
+Transitioning to a primarily plant based diet and trying to lose weight while gaining strength so I made [kcal](https://github.com/kcal-app/kcal).
+
 Other project information and contact at [www.chris-wells.net](https://www.chris-wells.net).
 
 Spend work time hacking on [Crosscut.com](https://crosscut.com) and [KCTS9.org](https://www.kcts9.org).
