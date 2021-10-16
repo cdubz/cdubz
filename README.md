@@ -27,6 +27,7 @@ Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_fo
 15. [Lord of Light](https://en.wikipedia.org/wiki/Lord_of_Light)
 16. [Stand on Zanzibar](https://en.wikipedia.org/wiki/Stand_on_Zanzibar) ❌
 17. [The Left Hand of Darkness](https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness)
-18. [Ringworld](https://en.wikipedia.org/wiki/Ringworld)
-19. [The Gods Themselves](https://en.wikipedia.org/wiki/The_Gods_Themselves)
-20. [Rendeveous with Rama](https://en.wikipedia.org/wiki/Rendezvous_with_Rama)
+18. [To Your Scattered Bodies Go](https://en.wikipedia.org/wiki/To_Your_Scattered_Bodies_Go) ❌
+19. [Ringworld](https://en.wikipedia.org/wiki/Ringworld)
+20. [The Gods Themselves](https://en.wikipedia.org/wiki/The_Gods_Themselves)
+21. [Rendeveous with Rama](https://en.wikipedia.org/wiki/Rendezvous_with_Rama)
