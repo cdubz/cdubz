@@ -8,7 +8,7 @@ Other project information and contact at [www.chris-wells.net](https://www.chris
 
 Spend work time hacking on [Crosscut.com](https://crosscut.com) and [KCTS9.org](https://www.kcts9.org).
 
-Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel). Completed as of December 2021:
+Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel). Completed as of March 2022:
 
 | 1950s  | 1960s | 1970s |
 | ------------- | ------------- | ------------- |
@@ -27,3 +27,6 @@ Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_fo
 | 1980s |
 | ------------- |
 [The Fountains of Paradise](https://en.wikipedia.org/wiki/The_Fountains_of_Paradise) |
+[The Snow Queen](https://en.wikipedia.org/wiki/The_Snow_Queen_(Vinge_novel)) |
+[Downbelow Station](https://en.wikipedia.org/wiki/Downbelow_Station) |
+[Foundation's Edge](https://en.wikipedia.org/wiki/Foundation%27s_Edge) |
