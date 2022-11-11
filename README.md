@@ -8,7 +8,7 @@ Other project information and contact at [www.chris-wells.net](https://www.chris
 
 Spend work time hacking on [Crosscut.com](https://crosscut.com) and [KCTS9.org](https://www.kcts9.org).
 
-Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel). Completed as of July 2022:
+Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel). Completed as of October 2022:
 
 | 1950s  | 1960s | 1970s |
 | ------------- | ------------- | ------------- |
@@ -33,3 +33,6 @@ Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_fo
 [Startide Rising](https://en.wikipedia.org/wiki/Startide_Rising) ⭐ |
 [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) |
 [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game) 🌟 |
+[Speaker for the Dead](https://en.wikipedia.org/wiki/Speaker_for_the_Dead) 🌟 |
+[The Uplift War](https://en.wikipedia.org/wiki/The_Uplift_War) |
+[Cyteen](https://en.wikipedia.org/wiki/Cyteen) ❌ |
