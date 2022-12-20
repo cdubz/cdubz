@@ -8,7 +8,7 @@ Other project information and contact at [www.chris-wells.net](https://www.chris
 
 Spend work time hacking on [Crosscut.com](https://crosscut.com) and [KCTS9.org](https://www.kcts9.org).
 
-Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel). Completed as of October 2022:
+Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel). Completed as of December 2022:
 
 | 1950s  | 1960s | 1970s |
 | ------------- | ------------- | ------------- |
@@ -24,11 +24,11 @@ Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_fo
 | | [Lord of Light](https://en.wikipedia.org/wiki/Lord_of_Light) | [Dreamsnake](https://en.wikipedia.org/wiki/Dreamsnake) 🌟 |
 | | [Stand on Zanzibar](https://en.wikipedia.org/wiki/Stand_on_Zanzibar) ❌ | |
 
-| 1980s |
-| ------------- |
-[The Fountains of Paradise](https://en.wikipedia.org/wiki/The_Fountains_of_Paradise) |
-[The Snow Queen](https://en.wikipedia.org/wiki/The_Snow_Queen_(Vinge_novel)) |
-[Downbelow Station](https://en.wikipedia.org/wiki/Downbelow_Station) |
+| 1980s | 1990s | 
+| ------------- | ------------- |
+[The Fountains of Paradise](https://en.wikipedia.org/wiki/The_Fountains_of_Paradise) | [Hyperion](https://en.wikipedia.org/wiki/Hyperion_(Simmons_novel)) |
+[The Snow Queen](https://en.wikipedia.org/wiki/The_Snow_Queen_(Vinge_novel)) | [The Vor Game](https://en.wikipedia.org/wiki/The_Vor_Game) |
+[Downbelow Station](https://en.wikipedia.org/wiki/Downbelow_Station) | [Barrayar](https://en.wikipedia.org/wiki/Barrayar) |
 [Foundation's Edge](https://en.wikipedia.org/wiki/Foundation%27s_Edge) |
 [Startide Rising](https://en.wikipedia.org/wiki/Startide_Rising) ⭐ |
 [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) |
