@@ -8,7 +8,7 @@ Other project information and contact at [www.chris-wells.net](https://www.chris
 
 Spend work time hacking on [Crosscut.com](https://crosscut.com) and [KCTS9.org](https://www.kcts9.org).
 
-Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel). Completed as of January 2024:
+Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel). Completed as of May 2024:
 
 | &nbsp; | 1950s  | 1960s | 1970s |
 | ------ | ------ | ----- | ----- |
@@ -30,8 +30,8 @@ Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_fo
 2 | [Downbelow Station](https://en.wikipedia.org/wiki/Downbelow_Station) | [Barrayar](https://en.wikipedia.org/wiki/Barrayar) | [American Gods](https://en.m.wikipedia.org/wiki/American_Gods)
 3 | [Foundation's Edge](https://en.wikipedia.org/wiki/Foundation%27s_Edge) | [A Fire Upon the Deep](https://en.wikipedia.org/wiki/A_Fire_Upon_the_Deep) ⭐<br/>[Doomsday Book](https://en.wikipedia.org/wiki/Doomsday_Book_(novel)) 🌟 | [Hominids](https://en.m.wikipedia.org/wiki/The_Neanderthal_Parallax) ⭐ |
 4 | [Startide Rising](https://en.wikipedia.org/wiki/Startide_Rising) ⭐ | [Green Mars](https://en.wikipedia.org/wiki/Mars_trilogy#Green_Mars_%E2%80%93_Terraforming) | [Paladin of Souls](https://en.m.wikipedia.org/wiki/Paladin_of_Souls) ⭐
-5 | [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) | [Mirror Dance](https://en.m.wikipedia.org/wiki/Mirror_Dance) |
-6 | [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game) 🌟 | [The Diamond Age](https://en.m.wikipedia.org/wiki/The_Diamond_Age) |
-7 | [Speaker for the Dead](https://en.wikipedia.org/wiki/Speaker_for_the_Dead) 🌟 | [Blue Mars](https://en.m.wikipedia.org/wiki/Mars_trilogy#Blue_Mars_%E2%80%93_Long-term_results) |
+5 | [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) | [Mirror Dance](https://en.m.wikipedia.org/wiki/Mirror_Dance) | [Jonathan Strange & Mr Norrell](https://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell)
+6 | [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game) 🌟 | [The Diamond Age](https://en.m.wikipedia.org/wiki/The_Diamond_Age) | [Spin](https://en.wikipedia.org/wiki/Spin_(novel))
+7 | [Speaker for the Dead](https://en.wikipedia.org/wiki/Speaker_for_the_Dead) 🌟 | [Blue Mars](https://en.m.wikipedia.org/wiki/Mars_trilogy#Blue_Mars_%E2%80%93_Long-term_results) | [Rainbows End](https://en.wikipedia.org/wiki/Rainbows_End_(Vinge_novel)) ❌
 8 | [The Uplift War](https://en.wikipedia.org/wiki/The_Uplift_War) | [Forever Peace](https://en.m.wikipedia.org/wiki/Forever_Peace) |
 9 | [Cyteen](https://en.wikipedia.org/wiki/Cyteen) ❌ | [To Say Nothing of the Dog](https://en.m.wikipedia.org/wiki/To_Say_Nothing_of_the_Dog) 🌟 |
