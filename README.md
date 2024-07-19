@@ -8,7 +8,7 @@ Other project information and contact at [www.chris-wells.net](https://www.chris
 
 Spend work time hacking on [Crosscut.com](https://crosscut.com) and [KCTS9.org](https://www.kcts9.org).
 
-Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel). Completed as of May 2024:
+Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel). Completed as of July 2024:
 
 | &nbsp; | 1950s  | 1960s | 1970s |
 | ------ | ------ | ----- | ----- |
@@ -33,5 +33,18 @@ Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_fo
 5 | [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) | [Mirror Dance](https://en.m.wikipedia.org/wiki/Mirror_Dance) | [Jonathan Strange & Mr Norrell](https://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell)
 6 | [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game) 🌟 | [The Diamond Age](https://en.m.wikipedia.org/wiki/The_Diamond_Age) | [Spin](https://en.wikipedia.org/wiki/Spin_(novel))
 7 | [Speaker for the Dead](https://en.wikipedia.org/wiki/Speaker_for_the_Dead) 🌟 | [Blue Mars](https://en.m.wikipedia.org/wiki/Mars_trilogy#Blue_Mars_%E2%80%93_Long-term_results) | [Rainbows End](https://en.wikipedia.org/wiki/Rainbows_End_(Vinge_novel)) ❌
-8 | [The Uplift War](https://en.wikipedia.org/wiki/The_Uplift_War) | [Forever Peace](https://en.m.wikipedia.org/wiki/Forever_Peace) |
-9 | [Cyteen](https://en.wikipedia.org/wiki/Cyteen) ❌ | [To Say Nothing of the Dog](https://en.m.wikipedia.org/wiki/To_Say_Nothing_of_the_Dog) 🌟 |
+8 | [The Uplift War](https://en.wikipedia.org/wiki/The_Uplift_War) | [Forever Peace](https://en.m.wikipedia.org/wiki/Forever_Peace) | [The Yiddish Policemen's Union](https://en.wikipedia.org/wiki/The_Yiddish_Policemen%27s_Union)
+9 | [Cyteen](https://en.wikipedia.org/wiki/Cyteen) ❌ | [To Say Nothing of the Dog](https://en.m.wikipedia.org/wiki/To_Say_Nothing_of_the_Dog) 🌟 | [The Graveyard Book](https://en.wikipedia.org/wiki/The_Graveyard_Book)
+
+| &nbsp; | 2010s | 2020s |
+| ------ | ----- | ----- |
+0 | [The Windup Girl](https://en.wikipedia.org/wiki/The_Windup_Girl)<br/>[The City & the City](https://en.wikipedia.org/wiki/The_City_%26_the_City) ⭐
+1 | 
+2 | [Among Others](https://en.wikipedia.org/wiki/Among_Others)
+3 | [Redshirts](https://en.wikipedia.org/wiki/Redshirts_(novel))
+4 | 
+5 | 
+6 | 
+7 | 
+8 | 
+9 | 
