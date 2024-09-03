@@ -8,7 +8,7 @@ Other project information and contact at [www.chris-wells.net](https://www.chris
 
 Spend work time hacking on [Crosscut.com](https://crosscut.com) and [KCTS9.org](https://www.kcts9.org).
 
-Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel). Completed as of July 2024:
+Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel). Completed as of August 2024:
 
 | &nbsp; | 1950s  | 1960s | 1970s |
 | ------ | ------ | ----- | ----- |
@@ -39,11 +39,11 @@ Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_fo
 | &nbsp; | 2010s | 2020s |
 | ------ | ----- | ----- |
 0 | [The Windup Girl](https://en.wikipedia.org/wiki/The_Windup_Girl)<br/>[The City & the City](https://en.wikipedia.org/wiki/The_City_%26_the_City) ⭐
-1 | 
+1 | [Blackout/All Clear](https://en.wikipedia.org/wiki/Blackout/All_Clear)
 2 | [Among Others](https://en.wikipedia.org/wiki/Among_Others)
 3 | [Redshirts](https://en.wikipedia.org/wiki/Redshirts_(novel))
-4 | 
-5 | 
+4 | [Ancillary Justice](https://en.wikipedia.org/wiki/Ancillary_Justice)
+5 | [The Three-Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) 🌟
 6 | 
 7 | 
 8 | 
