@@ -6,9 +6,9 @@ Losing weight while gaining strength so I made [kcal](https://github.com/kcal-ap
 
 Other project information and contact at [www.chris-wells.net](https://www.chris-wells.net).
 
-Spend work time hacking on [Crosscut.com](https://crosscut.com) and [KCTS9.org](https://www.kcts9.org).
+Spend work time hacking on [CascadePBS.org](https://www.CascadePBS.org).
 
-Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel). Completed as of August 2024:
+Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel). Completed as of October 2024:
 
 | &nbsp; | 1950s  | 1960s | 1970s |
 | ------ | ------ | ----- | ----- |
@@ -44,7 +44,7 @@ Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_fo
 3 | [Redshirts](https://en.wikipedia.org/wiki/Redshirts_(novel))
 4 | [Ancillary Justice](https://en.wikipedia.org/wiki/Ancillary_Justice)
 5 | [The Three-Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) 🌟
-6 | 
-7 | 
-8 | 
+6 | [The Fifth Season](https://en.wikipedia.org/wiki/The_Fifth_Season_(novel))
+7 | [The Obelisk Gate](https://en.wikipedia.org/wiki/The_Obelisk_Gate)
+8 | [The Stone Sky](https://en.wikipedia.org/wiki/The_Stone_Sky)
 9 | 
