@@ -8,7 +8,7 @@ Other project information and contact at [www.chris-wells.net](https://www.chris
 
 Spend work time hacking on [CascadePBS.org](https://www.CascadePBS.org).
 
-Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel). Completed as of October 2024:
+Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel). Completed as of December 2024:
 
 | &nbsp; | 1950s  | 1960s | 1970s |
 | ------ | ------ | ----- | ----- |
@@ -38,13 +38,13 @@ Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_fo
 
 | &nbsp; | 2010s | 2020s |
 | ------ | ----- | ----- |
-0 | [The Windup Girl](https://en.wikipedia.org/wiki/The_Windup_Girl)<br/>[The City & the City](https://en.wikipedia.org/wiki/The_City_%26_the_City) ⭐
-1 | [Blackout/All Clear](https://en.wikipedia.org/wiki/Blackout/All_Clear)
-2 | [Among Others](https://en.wikipedia.org/wiki/Among_Others)
+0 | [The Windup Girl](https://en.wikipedia.org/wiki/The_Windup_Girl)<br/>[The City & the City](https://en.wikipedia.org/wiki/The_City_%26_the_City) ⭐ | [A Memory Called Empire](https://en.wikipedia.org/wiki/A_Memory_Called_Empire) ⭐
+1 | [Blackout/All Clear](https://en.wikipedia.org/wiki/Blackout/All_Clear) | [Network Effect](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel)
+2 | [Among Others](https://en.wikipedia.org/wiki/Among_Others) | [A Desolation Called Peace](https://en.wikipedia.org/wiki/A_Desolation_Called_Peace) ⭐
 3 | [Redshirts](https://en.wikipedia.org/wiki/Redshirts_(novel))
 4 | [Ancillary Justice](https://en.wikipedia.org/wiki/Ancillary_Justice)
 5 | [The Three-Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) 🌟
 6 | [The Fifth Season](https://en.wikipedia.org/wiki/The_Fifth_Season_(novel))
 7 | [The Obelisk Gate](https://en.wikipedia.org/wiki/The_Obelisk_Gate)
 8 | [The Stone Sky](https://en.wikipedia.org/wiki/The_Stone_Sky)
-9 | 
+9 | [The Calculating Stars](https://en.wikipedia.org/wiki/The_Calculating_Stars)
