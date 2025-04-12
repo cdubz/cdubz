@@ -8,7 +8,7 @@ Other project information and contact at [www.chris-wells.net](https://www.chris
 
 Spend work time hacking on [CascadePBS.org](https://www.CascadePBS.org).
 
-Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel) around June 2019. Completed as of December 2024:
+Read through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel) from around June 2019 to March 2025.
 
 | &nbsp; | 1950s  | 1960s | 1970s |
 | ------ | ------ | ----- | ----- |
@@ -42,7 +42,7 @@ Reading through [Hugo award winners](https://en.wikipedia.org/wiki/Hugo_Award_fo
 1 | [Blackout/All Clear](https://en.wikipedia.org/wiki/Blackout/All_Clear) | [Network Effect](https://en.wikipedia.org/wiki/Hugo_Award_for_Best_Novel)
 2 | [Among Others](https://en.wikipedia.org/wiki/Among_Others) | [A Desolation Called Peace](https://en.wikipedia.org/wiki/A_Desolation_Called_Peace) ⭐
 3 | [Redshirts](https://en.wikipedia.org/wiki/Redshirts_(novel)) | [Nettle & Bone](https://en.wikipedia.org/wiki/Nettle_%26_Bone) 🌟
-4 | [Ancillary Justice](https://en.wikipedia.org/wiki/Ancillary_Justice)
+4 | [Ancillary Justice](https://en.wikipedia.org/wiki/Ancillary_Justice) | [Some Desparate Glory](https://en.wikipedia.org/wiki/Some_Desperate_Glory_(novel)) ❌
 5 | [The Three-Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) 🌟
 6 | [The Fifth Season](https://en.wikipedia.org/wiki/The_Fifth_Season_(novel))
 7 | [The Obelisk Gate](https://en.wikipedia.org/wiki/The_Obelisk_Gate)
